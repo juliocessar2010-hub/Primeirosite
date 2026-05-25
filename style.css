@@ -16,6 +16,8 @@ body{
 .nome {
     font-weight: 600;
     font-size: larger;
+    text-align: center;
+    color: gray;
 }
 
 p{
