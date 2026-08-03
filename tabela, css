@@ -1,0 +1,34 @@
+table {
+    width: auto;
+    border-collapse: collapse;
+    margin: auto
+}
+
+th, td {
+    border:  1px solid #2c2c2f;
+    padding: 20px;
+    text-align: center;
+}
+
+th{
+    background-color: #0606a0;
+    color: aliceblue;
+}
+
+tr:nth-child(even){
+    background-color: #9090ff;
+}
+
+tr:hover{
+    background-color: #7575fc;
+}
+
+h1{
+    text-align: center;
+    font-family:Arial ,sans-serif
+}
+
+p{
+    text-align: center;
+    font-family: Arial, sans-serif
+}
