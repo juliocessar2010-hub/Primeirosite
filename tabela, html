@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"
+</head>
+<body>
+    <h1>Nota Alunos</h1>
+    <table>
+        <thead>
+            <tr>
+             <th>Aluno</th>
+             <th>Turma</th>
+             <th>Disciplina</th>
+             <th>Menções</th>
+            </tr>
+        </thead>
+
+
+    <tbody>
+        <tr>
+            <td>João</td>
+            <td>3° A</td>
+            <td>Programação</td>
+            <td>MB</td>
+
+        </tr>
+
+        <tr>
+            <td>Maria</td>
+            <td>3° A</td>
+            <td>Programação</td>
+            <td>MB</td>
+        </tr>
+
+        <tr>
+            <td>Pedro</td>
+            <td>3° B</td>
+            <td>Banco de Dados</td>
+            <td>B</td>
+        </tr>
+
+        <tr>
+            <td>Ana</td>
+            <td>3° B</td>
+            <td>Banco de Dados</td>
+            <td>B</td>
+        </tr>
+
+        <tr>
+            <td>Getúlio</td>
+            <td>3° A</td>
+            <td>Interfaces Web I</td>
+            <td>MB</td>
+        </tr>
+
+        <tr>
+            <td>Márcia</td>
+            <td>3° A</td>
+            <td>Interfaces Web I</td>
+            <td>MB</td>
+        </tr>
+
+        <tr>
+            <td>Clara</td>
+            <td>3° B</td>
+            <td>Artes Digitais</td>
+            <td>B</td>
+        </tr>
+    </tbody>
+    </table>
+
+    <p>Julio Cesar Silva dos Santos</p>
+    
+</body>
+</html>
